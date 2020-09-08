@@ -11,4 +11,15 @@ the css already processed.
 
 ```
 npm install
+gulp css
 ```
+
+## Details Tasks
+
+1. Process SASS to CSS
+2. Minify CSS
+3. Minify JS
+4. Start server with index.html
+5. Looking at index.html to see the changes and reload if there are any changes
+
+## All tasks run serially one after the other
